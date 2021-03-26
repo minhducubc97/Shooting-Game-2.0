@@ -1,0 +1,6 @@
+*.dll
+.vs/
+x64/
+x86/
+include/
+lib/
